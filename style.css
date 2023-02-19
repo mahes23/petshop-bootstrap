@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+     background-color: darkblue;
+    
+}
+html{
+    scroll-padding:3rem;
+}
+.right h1{
+    font-size: 50px;
+}
+.right p{
+    font-size: 17px;
+}
+.right input{
+    height: 7vh;
+}
+.text button{
+left: 34%;
+}
+.text input{
+    outline: none;
+    height: 10vh;
+    width: 35%;
+}
+.number h1{
+    border-bottom: 3px solid blue;
+
+}
+.pic1{
+    width: 100%;
+    height: 80vh;
+}
+.video{
+    width: 100%;
+    height: 55vh;
+}  
+.post{
+    background-color:darkblue;
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+.button{
+    background-color: transparent;
+    color:white;
+    width: 15%;
+    border-color:white;
+    font-size: 20px;
+}
+.button:hover{
+    background-color:blue;
+}
+
